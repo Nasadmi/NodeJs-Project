@@ -1,5 +1,11 @@
 # This is the instructions to run the server
 
+## Do you need install a modules:
+```
+npm i express ejs
+npm i nodemon -D
+```
+
 ## There are two ways to do it: 
 
 * ## Run with Node
