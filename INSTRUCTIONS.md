@@ -1,4 +1,4 @@
-# This is the instructions to run the server
+# This is the instructions to run the server (In your Terminal, Windows: cmd, Linux/Mac: terminal)
 
 ## You need install modules:
 ```
