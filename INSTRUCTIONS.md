@@ -2,8 +2,8 @@
 
 ## You need install modules:
 ```
-$ npm i express ejs
-$ npm i nodemon -D
+ npm i express ejs
+ npm i nodemon -D
 ```
 
 ## There are two ways to do it: 
@@ -11,12 +11,12 @@ $ npm i nodemon -D
 * ## Run with Node
 
 ```
-$ node src/server.js
+ node src/server.js
 ```
 
 * ## Or with Nodemon
 ```
-$ npx nodemon src/server.js
+ npx nodemon src/server.js
 ```
 
 ============================================================================================================
