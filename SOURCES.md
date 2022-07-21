@@ -11,7 +11,6 @@
 # Librarys of JavaScript.
 
 * ## Express.
-* ## Morgan.
 * ## Ejs.
 * ## Nodemon.
 
