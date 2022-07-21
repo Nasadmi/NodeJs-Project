@@ -3,7 +3,7 @@
 ## You need install modules:
 ```
 $ npm i express ejs
-& npm i nodemon -D
+$ npm i nodemon -D
 ```
 
 ## There are two ways to do it: 
