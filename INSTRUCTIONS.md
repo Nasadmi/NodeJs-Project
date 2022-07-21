@@ -1,6 +1,6 @@
 # This is the instructions to run the server
 
-## Do you need install a modules:
+## You need install a modules:
 ```
 npm i express ejs
 npm i nodemon -D
